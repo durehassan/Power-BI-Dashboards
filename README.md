@@ -34,3 +34,16 @@ City and Sales:
 
 A map of the United States highlights cities with notable sales activity, visualized by dots of varying sizes representing sales volume.
 This dashboard provides valuable insights into sales trends, product performance, and customer activity, enabling informed decision-making and strategy development.
+
+HR Analytics Dashboard
+
+The HR Analytics Dashboard provides comprehensive insights into various aspects of workforce analytics. Key features include:
+
+Demographic Report: Summarizes employee statistics such as age groups, gender, distance from home, and marital status, providing insights into workforce diversity and commuting patterns for informed decision-making.
+Turnover Analysis: Offers insights into employee attrition, including departures by department, job roles, business travel impact, and total years in the current role, aiding in workforce management and retention strategies.
+Employee Satisfaction Metrics: Highlights key metrics such as average monthly income, employee satisfaction with various aspects of their work environment, and performance ratings.
+Key Insights:
+
+Detailed analysis of employee demographics and attrition rates.
+Identification of factors influencing employee turnover.
+Visualization of employee satisfaction and income metrics.
